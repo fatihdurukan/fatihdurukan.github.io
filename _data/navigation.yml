@@ -1,0 +1,12 @@
+# main links
+main:
+  - title: "Algoritmalar"
+    url: /algoritma/
+  - title: "Erasmus"
+    url: /erasmus/
+  - title: "Amerika (ABD)"
+    url: /amerika/
+  - title: "Hakkımda"
+    url: /about/
+  - title: "Site Haritası"
+    url: /sitemap/
