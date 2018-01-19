@@ -16,10 +16,8 @@ Birçok koşturmanın sonunda arkadaşımla birlikte havalimanındayız. Bizi ç
 
 Uçuşumuz İstanbul - Amsterdam - Atlanta - Kansas City şeklinde 3 aktarmalıydı.Yani önümüzdeki yaklaşık 20 saatimiz havalimanlarında ve uçuşlarda geçecekti.
 
-<figure style="width:800px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/amerikaya-yolculuk-rota.png" alt="">
-  <figcaption>Kaynak http://www.flightconnections.com/</figcaption>
-</figure>
+![Rota]({{ site.url }}{{ site.baseurl }}/assets/images/amerikaya-yolculuk-rota.png){:height="1080px" width="1920px"}{:class="img-responsive"}{: .align-center}
+
 
 
 
@@ -30,7 +28,8 @@ Duty-free kısmında birçok alışveriş imkanı var. Ancak **yiyecekler çok p
 
 
 Amsterdam uçuşumuz KLM firmasıylaydı. Çalışanları gayet güler yüzlü.Ben uçak biletlerimi sırt çantamın içine, sırt çantamıda baş üstü bölmesine koymuştum ki uçarken havanın soğuk olmasından dolayı biletler ıslanmış ve kullanılmaz hale gelmişti.Bu yüzden biletlerinizi ve belgelerinizi bir dosya içinde saklamakta fayda var.3 saat civarında süren uçuş sonunda Amsterdam'a indik. **Transit yolcu olduğumuz için valizlerimizi ABD'de iç hatlara geçerken alacağız**. Burda tekrar bir güvenlik konrolünden geçtik. Havalimanın dev bir AVM gibiydi. Biraz dolaştıktan sonra vakit geçirmek için Starbucks'a girdik. Alışveriş yaparken ya kredi kartı kullanmalısınız ya da yanınızda Euro bulundurmalısınız. Bizim yanımızda Euro yoktu, ödemeyi dolarla yaptık para üstünü Euro olarak verdiler. Biletleri yenilerken görevli kadın bana başkasının biletini vermiş. Allahtan bunu hemen farkettim ve düzelttirdim. Uçağa girerken arkadaşımla beni ayakkabılarımıza kadar aradılar.Türk olduğumuzdan dolayı mı anlayamadık.Herkes rahatça geçerken bizim aranmamız birazcık garip geldi tabi. Tek korkumuz çantamızdaki yiyeceklerin alınmasıydı çünkü onlar bizim birkaç günlük yiyecek stoğumuzdu.Neyse ki birşey demediler.
-![Amsterdam]({{ site.url }}{{ site.baseurl }}/assets/images/amerikaya-yolculuk-amsterdam.jpg){:height="1080px" width="1920px"}{: .align-center}
+
+![Amsterdam]({{ site.url }}{{ site.baseurl }}/assets/images/amerikaya-yolculuk-amsterdam.jpg){:height="1920px" width="1080px"}{: .align-center}{:class="img-responsive"}
 
 
 Amsterdam-Atlanta uçuşu transatlantik bir uçuş olduğu için uçak farklı ve çok büyüktü.Koltuklarımıza geçtiğimizde koltukların üzerinde ufak battaniye, göz bandı, kulaklık, ıslak mendil gibi şeylerden oluşan bir paket vardı.Koltuklar gayet rahat ve genişti. Ayrıca her koltuk arkasında vakit geçirmeniz için tabletler var. Bu tabletlerde bol bol oyun, film, dizi mevcut. Diğer yolcularla oyun oynayabilir,
@@ -41,7 +40,7 @@ mesajlaşabilirsiniz. Dilerseniz ücretli internet mevcut. Uçuş başladıktan 
 
 
 
-![Atlanta]({{ site.url }}{{ site.baseurl }}/assets/images/amerikaya-yolculuk-atlanta.JPG){:height="1080px" width="800px"}{: .align-center}
+![Atlanta]({{ site.url }}{{ site.baseurl }}/assets/images/amerikaya-yolculuk-atlanta.JPG){:height="1080px" width="800px"}{: .align-center}{:class="img-responsive"}
 
 
 Uçuş yaklaşık 9-10 saat sürdü. 2.durağımız olan Atlanta'da valizlerimizi alıp, iç hatlara geçip Kansas City uçağına göndermemiz lazımdı. Uçaktan iner inmez pasaport konrolüne girdik. Cem Yılmaz'ın bahsettiği *"What is the purpose of your visit ?"* kısmı burasıydı. Gelgelelim inanılmaz bir sıra vardı ve şaka gibi sadece 2-3 polis memuru çalışıyordu. Diğer uçuşumuza birkaç saat olmasına rağmen zaman geçtikçe yetişemeyeceğimizi düşünmeye başladık. Sırada herkes söyleniyordu, bir saatten fazla bekledik.Polis ilk
