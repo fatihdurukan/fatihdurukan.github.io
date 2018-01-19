@@ -18,8 +18,8 @@ feature_row2:
     alt: "placeholder image 2"
     title: "Ders 1"
     excerpt: 'Ders içeriği...'
-    url: "/home/"
-    btn_label: "Read More"
+    url: "#blank"
+    btn_label: "Devamını Oku"
     btn_class: "btn--primary"
 
 feature_row3:
@@ -27,8 +27,8 @@ feature_row3:
     alt: "Ders 2"
     title: "Ders 2"
     excerpt: 'Ders içeriği...'
-    url: "/layout/uncategorized/layout-comments/"
-    btn_label: "Read More"
+    url: "#blank"
+    btn_label: "Devamını Oku"
     btn_class: "btn--primary"
 
 ---

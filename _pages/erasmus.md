@@ -16,19 +16,19 @@ intro:
 feature_row2:
   - image_path: /assets/images/tallinn.jpg
     alt: "placeholder image 2"
-    title: "Ders 1"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
-    url: "/home/"
-    btn_label: "Read More"
+    title: "Erasmus İçin Gerekli Belgeler"
+    excerpt: 'Henüz hazır değildir. '
+    url: "#blank"
+    btn_label: "Devamını Oku"
     btn_class: "btn--primary"
 
 feature_row3:
   - image_path: /assets/images/tallinn.jpg
     alt: "Ders 2"
-    title: "Ders 2"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
-    url: "/layout/uncategorized/layout-comments/"
-    btn_label: "Read More"
+    title: "Vize"
+    excerpt: 'Henüz hazır değildir.'
+    url: "#blank"
+    btn_label: "Devamını Oku"
     btn_class: "btn--primary"
 
 ---

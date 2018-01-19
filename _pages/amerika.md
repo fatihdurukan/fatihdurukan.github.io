@@ -14,21 +14,21 @@ intro:
   - excerpt: 'Bir rüya gibi : Amerika...'
 
 feature_row2:
-  - image_path: /assets/images/algoritma.jpg
+  - image_path: /assets/images/newyork.jpg
     alt: "placeholder image 2"
     title: "Ders 1"
     excerpt: 'Ders içeriği...'
-    url: "/home/"
-    btn_label: "Read More"
+    url: "/blank/"
+    btn_label: "Devamını Oku"
     btn_class: "btn--primary"
 
 feature_row3:
-  - image_path: /assets/images/algoritma.jpg
+  - image_path: /assets/images/newyork.jpg
     alt: "Ders 2"
     title: "Ders 2"
     excerpt: 'Ders içeriği...'
-    url: "/layout/uncategorized/layout-comments/"
-    btn_label: "Read More"
+    url: "/blank/"
+    btn_label: "Devamını Oku"
     btn_class: "btn--primary"
 
 ---
