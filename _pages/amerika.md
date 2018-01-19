@@ -16,9 +16,9 @@ intro:
 feature_row2:
   - image_path: /assets/images/newyork.jpg
     alt: "placeholder image 2"
-    title: "Ders 1"
-    excerpt: 'Ders içeriği...'
-    url: "/blank/"
+    title: "Amerikaya Yolculuk"
+    excerpt: 'İstanbul'da başlayıp Kansas City`de sonlanan, 3 aktarmayla 20 saatten fazla süren bir yolculuk...'
+    url: "/amerika/yurtdışı/amerikaya-yolculuk/"
     btn_label: "Devamını Oku"
     btn_class: "btn--primary"
 
