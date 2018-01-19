@@ -16,7 +16,7 @@ Birçok koşturmanın sonunda arkadaşımla birlikte havalimanındayız. Bizi ç
 
 
 Uçuşumuz İstanbul - Amsterdam - Atlanta - Kansas City şeklinde 3 aktarmalıydı.Yani önümüzdeki yaklaşık 20 saatimiz havalimanlarında ve uçuşlarda geçecekti.
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/amerikaya-yolculuk-rota.png){:height="800px" width="533px"}{: .align-center}
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/amerikaya-yolculuk-rota.png){:height="1080px" width="800px"}{: .align-center}
 
 Bizim uçuşumuz sabah saatlerindeydi ancak biz ilk defa yurtdışına çıkmanın verdiği heyecanla gece 2 sularında havalimanına geldik.Güvenlik kontrolünden geçtikten sonra birkaç saat kadar boş vaktimiz oldu çünkü valiz teslim edeceğimiz yerler daha açılmamıştı. Birkaç saatlik beklemenin sonunda sıraya girdik ve valizlerimizi teslim ettik. Bu arada görevliden rica ederek 3 uçuşumuz içinde koltuklarımızı yan yana aldık. Valizlerimizden de kurtulduğumuz için havalimanının duty-free kısmına yöneldik.Duty-free kısmına geçmeden önce pasaport kontrolü oldu ve burda yurt dışı çıkış pulunu istediler. Bu pulu almayı unutanı tekrar alması için geri gönderdiler.O yüzden **yurt dışı çıkış pulunu pasaport kontolüne girmeden almakta fayda var**.
 
