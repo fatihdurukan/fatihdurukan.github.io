@@ -24,10 +24,10 @@ feature_row2:
 
 feature_row3:
   - image_path: /assets/images/amerikada-arac-kiralama.jpg
-    alt: "Amerika`da Araba Kiralama"
-    title: "Amerika`da Araba Kiralama"
-    excerpt: 'Amerika`da araba kiralamak sanılandan daha kolay.'
-    url: "/blank/"
+    alt: "Amerika'da Araba Kiralama"
+    title: "Amerika'da Araba Kiralama"
+    excerpt: 'Amerika'da araba kiralamak sanılandan daha kolay.'
+    url: "/yurtdışı/amerikada-araba-kiralama/"
     btn_label: "Devamını Oku"
     btn_class: "btn--primary"
 
