@@ -13,7 +13,7 @@ header:
 intro:
   - excerpt: 'Bir rüya gibi : Amerika...'
 
-feature_row2:
+feature_row1:
   - image_path: /assets/images/amerikaya-yolculuk-rota.png
     alt: "Amerika'ya Yolculuk"
     title: "Amerika'ya Yolculuk"
@@ -22,7 +22,7 @@ feature_row2:
     btn_label: "Devamını Oku"
     btn_class: "btn--primary"
 
-feature_row3:
+feature_row2:
   - image_path: /assets/images/amerikada-arac-kiralama.jpg
     alt: "Amerika'da Araba Kiralama"
     title: "Amerika'da Araba Kiralama"
@@ -31,14 +31,21 @@ feature_row3:
     btn_label: "Devamını Oku"
     btn_class: "btn--primary"
 
+feature_row3:
+  - image_path: /assets/images/amerika-arabamız.jpg
+    alt: "Amerika'da Araba Satın Almak"
+    title: "Amerika'da Araba Satın Almak"
+    excerpt: 'İşlemleri tamamladıktan sonra büyük sevinçle arabayı teslim alıp evimize doğru yola çıktık.Ta ki eve varana dek...'
+    url: "/yurtdışı/amerikada-araba-satın-alma/"
+    btn_label: "Devamını Oku"
+    btn_class: "btn--primary"
+
 ---
 
-{% include feature_row id="intro" type="center" %}
-
-{% include feature_row %}
+{% include feature_row id="feature_row1" type="left" %}
 
 {% include feature_row id="feature_row2" type="left" %}
 
 {% include feature_row id="feature_row3" type="left" %}
 
-{% include feature_row id="feature_row4" type="center" %}
+{% include feature_row id="feature_row4" type="left" %}
