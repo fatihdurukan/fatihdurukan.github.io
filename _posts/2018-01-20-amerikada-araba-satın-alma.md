@@ -22,7 +22,7 @@ Arkadaşımla kara kara düşünüyorduk.Bu esnada diğer ev arkadaşım geldi v
 
 Bankada buluşup daha sonra adamın evine gittik.Evi 3 katlı bahçesi ve garajı olan bir evdi.Salonda bilardo masası ve dev bir ekranlı sinevizyon vardı. Bize garajda 3 tane araba gösterdi. Biz en hesaplı olanı 2006 model Chevrolet'i seçtik.Bizim en büyük korkumuz arabanın sıkıntısız olmasıydı. Bankacıya defalarca söyledik böyle bir sıkıntı istemiyoruz diye oda bize defalarca bir sıkıntısı çıkmaz çıkarsa ben buradayım diyerek bizi rahatlattı.Biz kendi aramızda birkaç gün düşündükten sonra *(evce ortak alıcaktık)* arabayı satın almaya karar verdik.
 
-![Arabamız]({{ site.url }}{{ site.baseurl }}/assets/images/amerika-arabamız.jpg){:height="1080px" width="1920px"}{:class="img-responsive"}{: .align-center}
+![Arabamız]({{ site.url }}{{ site.baseurl }}/assets/images/amerika-arabamız.png){:height="1080px" width="1920px"}{:class="img-responsive"}{: .align-center}
 *Merak edenler için söyleyeyim arabayı 1400 dolara satın aldık.*
 
 Araba satın almak için bankacının evine gittik.Arabayı test sürüşüne çıkardık.Herşey güzeldi.Bir arkadaşımızın Amerikan vatandaşlığı vardı.Bankacı belge işlerini onun kimliği ve ehliyetiyle yaptı.Biz bilardo oynarken bütün işlemlerimiz yapıldı.İşlemleri tamamladıktan sonra büyük sevinçle arabayı teslim alıp evimize doğru yola çıktık.Ta ki eve varana dek...

@@ -32,7 +32,7 @@ feature_row2:
     btn_class: "btn--primary"
 
 feature_row3:
-  - image_path: /assets/images/amerika-arabamız.jpg
+  - image_path: /assets/images/amerika-arabamız.png
     alt: "Amerika'da Araba Satın Almak"
     title: "Amerika'da Araba Satın Almak"
     excerpt: 'İşlemleri tamamladıktan sonra büyük sevinçle arabayı teslim alıp evimize doğru yola çıktık.Ta ki eve varana dek...'
