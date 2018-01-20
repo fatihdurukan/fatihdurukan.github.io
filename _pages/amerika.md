@@ -14,19 +14,19 @@ intro:
   - excerpt: 'Bir rüya gibi : Amerika...'
 
 feature_row2:
-  - image_path: /assets/images/newyork.jpg
-    alt: "placeholder image 2"
-    title: "Amerikaya Yolculuk"
+  - image_path: /assets/images/amerikaya-yolculuk-rota.png
+    alt: "Amerika'ya Yolculuk"
+    title: "Amerika'ya Yolculuk"
     excerpt: 'İstanbul da başlayıp Kansas City de sonlanan, 3 aktarmayla 20 saatten fazla süren bir yolculuk...'
     url: "/yurtdışı/amerikaya-yolculuk/"
     btn_label: "Devamını Oku"
     btn_class: "btn--primary"
 
 feature_row3:
-  - image_path: /assets/images/newyork.jpg
-    alt: "Ders 2"
-    title: "Ders 2"
-    excerpt: 'Ders içeriği...'
+  - image_path: /assets/images/amerikada-arac-kiralama.jpg
+    alt: "Amerika`da Araba Kiralama"
+    title: "Amerika`da Araba Kiralama"
+    excerpt: 'Amerika`da araba kiralamak sanılandan daha kolay.'
     url: "/blank/"
     btn_label: "Devamını Oku"
     btn_class: "btn--primary"
