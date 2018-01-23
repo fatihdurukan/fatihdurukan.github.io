@@ -17,7 +17,7 @@ toc_icon: "bookmark"
 
 Jazz müziğiyle ve barbeküsüyle ünlü, iki eyalet tek şehir : Kansas City.
 
-<iframe width="640" height="360" src="https://www.youtube.com/watch?v=x2ZCddp4blY" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x2ZCddp4blY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Genel
 
