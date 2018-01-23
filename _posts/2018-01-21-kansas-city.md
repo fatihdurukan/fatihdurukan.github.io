@@ -14,9 +14,12 @@ toc: true
 toc_label: "İçerik"
 toc_icon: "bookmark"
 ---
-## Genel
 
 Jazz müziğiyle ve barbeküsüyle ünlü, iki eyalet tek şehir : Kansas City.
+
+<iframe width="640" height="360" src="https://www.youtube.com/watch?v=x2ZCddp4blY" frameborder="0" allowfullscreen></iframe>
+
+## Genel
 
 ![Kansas City]({{ site.url }}{{ site.baseurl }}/assets/images/kansas-city.jpg){:height="1080px" width="1920px"}{:class="img-responsive"}{: .align-center}
 *National World War I Museum and Memorial'dan çektiğim bir fotoğraf*

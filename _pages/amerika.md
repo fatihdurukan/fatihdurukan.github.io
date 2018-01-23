@@ -40,6 +40,15 @@ feature_row3:
     btn_label: "Devamını Oku"
     btn_class: "btn--primary"
 
+feature_row4:
+  - image_path: /assets/images/kansas-city.jpg
+    alt: "Kansas City"
+    title: "Kansas City Gezi Notları"
+    excerpt: 'Jazz müziğiyle ve barbeküsüyle ünlü, iki eyalet tek şehir : Kansas City.'
+    url: "/yurtdışı/kansas-city/"
+    btn_label: "Devamını Oku"
+    btn_class: "btn--primary"
+
 ---
 
 {% include feature_row id="feature_row1" type="left" %}
