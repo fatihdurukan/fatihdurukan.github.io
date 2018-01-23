@@ -1,15 +1,24 @@
 ---
 title: "Kansas City Gezi Notları"
 header:
-  image: assets/images/unsplash-image-9.jpg
+  overlay_color: "#333"
 tags:
-  - table of contents
+  - yolculuk
+  - amerika
+  - abd
+  - kansas
+  - city
+categories:
+  - Yurtdışı
 toc: true
 toc_label: "İçerik"
 toc_icon: "bookmark"
 ---
 
 Jazz müziğiyle ve barbeküsüyle ünlü, iki eyalet tek şehir : Kansas City.
+
+![Kansas City]({{ site.url }}{{ site.baseurl }}/assets/images/kansas-city.jpg){:height="1080px" width="1920px"}{:class="img-responsive"}{: .align-center}
+*National World War I Museum and Memorial'dan çektiğim bir fotoğraf*
 
 Kansas City'e ilk günümüz de çevreyi gezmek için arkadaşımla erkenden kalktık. Hemen internetten toplu ulaşım saatlerine baktık *(Google Maps çok kullanışlı.)*.Toplu taşıma yaygın olmadığı için bizim kaldığımız yerden sadece tek bir otobüs vardı.O da yarım saate bir geçiyordu.Yakın çevremizde outlet (Legends Outlets) alışveriş merkezi olduğu için ordan başlamak istedik.Giyim fiyatlarını görmek için çok meraklıydık. Burda bilindik markaların kendi outlet mağazaları olduğu gibi Tjmaxx gibi içinde birçok markanın ürünü satan mağalarda vardı.Fiyatlar Türkiye'ye göre çok uygun.(özellikle tjmaxx) Acıkınca doğrudan mcDonalds'a gittik. Tavuk burger $1 olduğu için bol bol ondan aldık. Ayrıca içecekte  için $1 bardak veriyorlar makinelerden istediğiniz kadar içecek alabiliyorsunuz. Mcdonalds'ın ücretsiz wifisinide sömürdük tabi. Bu araca couchsurfing'ten bir yerelle haberleşiyordum, bizi ofisine ve yemeğe çağırdı. Bizde zaten boştuk, eve uğrayıp lokumumuzu alarak ofisinin yolunu tuttuk.
 
@@ -28,18 +37,24 @@ Az öncede dediğim gibi toplu taşıma yaygın değil.Sadece 4-5 otobüs hattı
 
 Sadece merkezde StreetCar denilen tramvay ise ücretsiz.
 
+![Kansas City]({{ site.url }}{{ site.baseurl }}/assets/images/streetcar_kansas_city.jpg){:height="1080px" width="1920px"}{:class="img-responsive"}{: .align-center}
+
+
 ## Kansas City'de Yeme-İçme
 
 Kansas City barbeküsüyle ünlü bir şehir. Bu yüzden sık sık barbekücülerle karşılaşmanız normal. Ben en iyi iki barbekücüyü öneriyim.
 
-1)Arthur Bryant's Barbecue
+1)Arthur Bryant's Barbeque
 
 Obama Kansas'a geldiğinde buradan barbekü yemiş.Diyeceklerim bu kadar :smiley:
+
+![Arthur]({{ site.url }}{{ site.baseurl }}/assets/images/arthur-Barbeque.jpg){:height="1080px" width="1920px"}{:class="img-responsive"}{: .align-center}
 
 2)Joe's Kansas City Bar-B-Que
 
 Petrol istasyonunda bulunan (evet yanlış okumadınız), dinlenme tesisi gibi olan bu restorana gitmeyi düşünürseniz sıra beklemeyi göze almasınız.
 
+![Joe]({{ site.url }}{{ site.baseurl }}/assets/images/joes-kansas-barbequ.jpg){:height="1080px" width="1920px"}{:class="img-responsive"}{: .align-center}
 
 Açıkcası ben mideme düşkün biri değilim, damak zevkimin olduğunuda pek iddia edemem o yüzden barbekü dışında Kansas'a özel birşey varsa da bilmiyorum. Ayrıca Meksika,Hint,Arap vs gibi diğer ülke mutfaklarını da tatmak isterseniz birçok restoran var.
 
@@ -51,143 +66,72 @@ Kansas City'de eğlence denilince akla gelen ilk yerler : Westport, Power & Ligh
 **Her Ayın İlk Cuması** Croossroads'ta her ayın ilk cuması binlerce insan sokağa çıkıyor.Sessiz sakin şehir bir anda İstiklal Caddesi gibi oluyor. Köşe başı parti :) Kaçırmayın derim...
 {: .notice}
 
-**Westport**
 
-buraya foto
+
+* **Westport**
 
 Birkaç sokak ve caddeden oluşan Westport birçok bar ve disko var.Cuma ve Cumartesi oldukça kalabalık.Bilindik mekanlara giriş ücretli. Tüm içecekler ucuz. Alkol almayan biriyseniz bazı barlarda alkosüz içecekler ücretsiz.
 
-**Power & Light**
+![Westport]({{ site.url }}{{ site.baseurl }}/assets/images/westport.jpg){:height="1080px" width="1920px"}{:class="img-responsive"}{: .align-center}
+
+* **Power & Light**
 
 Daha çok konserlerin yer aldığı bir bölge.Sahne performansları genellikle burda.
 
+![Power & Light]({{ site.url }}{{ site.baseurl }}/assets/images/power-and-light.jpg){:height="1080px" width="1920px"}{:class="img-responsive"}{: .align-center}
 
-**Plaza**
+* **Plaza**
 
 Şehirde rahatlamak ve kafa dinlemek için gittiğim yer. Mimarisi harika ! Açık hava alışmerkezi. Keşfedilmeyi bekleyen birçok  mekan var.
 
-**Jazz** Yukarda bahsettiğim yerlerde bol bol Jazz cafe ve bar var.
+![Plaza]({{ site.url }}{{ site.baseurl }}/assets/images/country-club.jpg){:height="1080px" width="1920px"}{:class="img-responsive"}{: .align-center}
+
+* **Jazz** Yukarda bahsettiğim yerlerde bol bol Jazz cafe ve bar var.
 {: .notice}
 
 ## Kansas City'de Alışveriş
 
 Alışveriş için Country Club Plaza, Crown Center, Legends Outlets yeterli olacaktır. Alışveriş yapmak istiyorsanız daha birçok seçeek mevcut.
 
+![Legends]({{ site.url }}{{ site.baseurl }}/assets/images/legends.png){:height="1080px" width="1920px"}{:class="img-responsive"}{: .align-center}
+
 ## Kansas City'de Gezilecek Yerler
 
 Benim en çok beğendiğim yerleri şöyle sıralıyım :
 
-**National World War I Museum and Memorial**
+* **National World War I Museum and Memorial**
 
 Hem şehrin en güzel manzarasını hem de 1.Dünya Savaşı ile ilgili çok özel bir müze.
 
-**The Nelson-Atkins Museum of Art**
+![War Museum]({{ site.url }}{{ site.baseurl }}/assets/images/National_World_War.jpg){:height="1080px" width="1920px"}{:class="img-responsive"}{: .align-center}
+
+* **The Nelson-Atkins Museum of Art**
 
 Sanat müzesi. Arkasında geniş bir alanı var. Alanda birçok etkinlik düzenleniyor. Yaz aylarında bunlardan birine katılıp, keyfinize bakın :)
 
-**Union Station**
+![Art Museum]({{ site.url }}{{ site.baseurl }}/assets/images/nelson-atkins.jpg){:height="1080px" width="1920px"}{:class="img-responsive"}{: .align-center}
+
+* **Union Station**
 
 Tarihi bir yer. İçinde çok güzel fotoğraf çekinebilirsiniz.
 
-**Kansas City Speedway**
+![Union]({{ site.url }}{{ site.baseurl }}/assets/images/union-station.jpg){:height="1080px" width="1920px"}{:class="img-responsive"}{: .align-center}
+
+* **Kansas City Speedway**
 Nascar yarışlarından birini izlemeden gitmeyin. Biletler biraz tuzludur haberiniz olsun.
 
-**Kauffman Stadium**
+![Speedway]({{ site.url }}{{ site.baseurl }}/assets/images/Kansas+Speedway.jpg){:height="1080px" width="1920px"}{:class="img-responsive"}{: .align-center}
+
+* **Kauffman Stadium**
 
 Kansas Amerika'nın en beyzbol takımlardan birine ev sahipliği yapıyor.Yakın zamanda şampiyonlukları da var. Gelmişken bir maç izlemeden dönmeyin.
 
-**World of Fun**
+![Kauffman]({{ site.url }}{{ site.baseurl }}/assets/images/kauffman_stadium.png){:height="1080px" width="1920px"}{:class="img-responsive"}{: .align-center}
+
+* **World of Fun**
 Eğlenmeye doymak istiyorsanız..
 
+![Fun]({{ site.url }}{{ site.baseurl }}/assets/images/Worlds+of+Fun_08.jpg){:height="1080px" width="1920px"}{:class="img-responsive"}{: .align-center}
 
-**Jazz** Daha birçok gezilecek yer var ve birçok etkinlik düzenleniyor.Bunları takip edip katılmalısınız.
-{: .notice}
-
-
-
-Enable table of contents on post or page by adding `toc: true` to its YAML Front Matter. The title and icon can also be changed with:
-
-```yaml
----
-toc: true
-toc_label: "Unique Title"
-toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
----
-```
-
-## HTML Elements
-
-Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
-
-## Body text
-
-Lorem ipsum dolor sit amet, test link adipiscing elit. **This is strong**. Nullam dignissim convallis est. Quisque aliquam.
-
-![Smithsonian Image]({{ site.url }}{{ site.baseurl }}/assets/images/3953273590_704e3899d5_m.jpg)
-{: .image-right}
-
-*This is emphasized*. Donec faucibus. Nunc iaculis suscipit dui. 53 = 125. Water is H2O. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. The New York Times (That’s a citation). Underline.Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.
-
-HTML and CSS are our tools. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.
-
-### Blockquotes
-
-> Lorem ipsum dolor sit amet, test link adipiscing elit. Nullam dignissim convallis est. Quisque aliquam.
-
-## List Types
-
-### Ordered Lists
-
-1. Item one
-   1. sub item one
-   2. sub item two
-   3. sub item three
-2. Item two
-
-### Unordered Lists
-
-* Item one
-* Item two
-* Item three
-
-## Tables
-
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|----
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=====
-| Foot1   | Foot2   | Foot3
-{: rules="groups"}
-
-## Code Snippets
-
-```css
-#container {
-  float: left;
-  margin: 0 -240px 0 0;
-  width: 100%;
-}
-```
-
-## Buttons
-
-Make any link standout more when applying the `.btn` class.
-
-```html
-<a href="#" class="btn btn--success">Success Button</a>
-```
-
-<div markdown="0"><a href="#" class="btn">Primary Button</a></div>
-<div markdown="0"><a href="#" class="btn btn--success">Success Button</a></div>
-<div markdown="0"><a href="#" class="btn btn--warning">Warning Button</a></div>
-<div markdown="0"><a href="#" class="btn btn--danger">Danger Button</a></div>
-<div markdown="0"><a href="#" class="btn btn--info">Info Button</a></div>
-
-## Notices
-
-**Watch out!** You can also add notices by appending `{: .notice}` to a paragraph.
+**Not** Daha birçok gezilecek yer var ve birçok etkinlik düzenleniyor.Bunları takip edip katılmalısınız.
 {: .notice}
