@@ -54,7 +54,7 @@ feature_row5:
     alt: "Amerika'da İş Bulmak | Amazon'da Çalışmak"
     title: "Amerika'da İş Bulmak | Amazon'da Çalışmak"
     excerpt: 'Amerika`da günler su gibi akmaya başlayınca para da aynı oranda akıp gitmeye başlıyor...Bu durumda nasıl iş buldum, Amazon`da çalışmak nasıl gibi soruların cevabı bu yazımda. '
-    url: "/yurtdışı/kansas-city/"
+    url: "/yurtdışı/amerikada-iş-bulmak/"
     btn_label: "Devamını Oku"
     btn_class: "btn--primary"
 
