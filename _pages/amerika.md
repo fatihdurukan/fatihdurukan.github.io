@@ -53,7 +53,7 @@ feature_row5:
   - image_path: /assets/images/amazonda-ben.jpg
     alt: "Amerika'da İş Bulmak | Amazon'da Çalışmak"
     title: "Amerika'da İş Bulmak | Amazon'da Çalışmak"
-    excerpt: 'Amerika`da günler su gibi akmaya başlayınca para da aynı oranda akıp gitmeye başlıyor...Bu durumda nasıl iş buldum, Amazon`da çalışmak nasıl gibi soruların cevabı bu yazımda. '
+    excerpt: 'Amerikada günler su gibi akmaya başlayınca para da aynı oranda akıp gitmeye başlıyor...Bu durumda nasıl iş buldum, Amazon`da çalışmak nasıl bir duygu gibi soruların cevabı bu yazımda. '
     url: "/yurtdışı/amerikada-iş-bulmak/"
     btn_label: "Devamını Oku"
     btn_class: "btn--primary"
