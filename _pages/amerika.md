@@ -49,6 +49,15 @@ feature_row4:
     btn_label: "Devamını Oku"
     btn_class: "btn--primary"
 
+feature_row5:
+  - image_path: /assets/images/amazonda-ben.jpg
+    alt: "Amerika'da İş Bulmak | Amazon'da Çalışmak"
+    title: "Amerika'da İş Bulmak | Amazon'da Çalışmak"
+    excerpt: 'Amerika`da günler su gibi akmaya başlayınca para da aynı oranda akıp gitmeye başlıyor...Bu durumda nasıl iş buldum, Amazon`da çalışmak nasıl gibi soruların cevabı bu yazımda. '
+    url: "/yurtdışı/kansas-city/"
+    btn_label: "Devamını Oku"
+    btn_class: "btn--primary"
+
 ---
 
 {% include feature_row id="feature_row1" type="left" %}
@@ -58,3 +67,5 @@ feature_row4:
 {% include feature_row id="feature_row3" type="left" %}
 
 {% include feature_row id="feature_row4" type="left" %}
+
+{% include feature_row id="feature_row5" type="left" %}
