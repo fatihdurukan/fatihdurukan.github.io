@@ -62,9 +62,9 @@ Amazonda çalışmanın avantajları :
 * Amazon.com'da %10 personel indirimin oluyor
 * Herşeyi online sistemden halledebiliyorsun(izin, mazaret vs..)
 * 2 gün işe gitmesen de işe gitmiş gibi ücretin yatıyor.(belirli bir sürede yenileniyor ama tam hatırlayamadım o süreyi)
-* Şefler çok anlayışlıve yardımsever.Herhangi bir problem olduğunda ekinmeden gidip danıştım.
+* Şefler çok anlayışlı ve yardımsever.Herhangi bir problem olduğunda çekinmeden gidip danıştım.
 * Bir keresinde herkes işe pijamayla gelmişti.
-* İsterseniz maaşınızdan makul bir fiyata sağlık sigortası yapıyor
+* İsterseniz maaşınızdan makul bir fiyata sağlık sigortası yapıyor.
 * En ufak sorunda dahi mail atarsanız 15-20 dakika içinde geri dönüyorlar. (7/24)
 * Daha vardı birşeyler ama aklıma gelmiyor şuan :smiley:
 
