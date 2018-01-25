@@ -1,5 +1,5 @@
 ---
-title: "Amerika'da İş Bulmak | Amazon'da Çalışmak"
+title: "Amerika'da İş Bulmak & Amazon'da Çalışmak"
 header:
   overlay_color: "#333"
 categories:
@@ -42,7 +42,11 @@ Bir hafta içinde kabul mailimiz geldi ve bize oryantasyon videoları gönderdil
 Büyük gün geldi çattı.18:00'da Amazon'un önündeydik.Şefler kapının önünde koridor yapmış, her gelenle tokalaşıp hoşgeldin dediler.Balonlarla süslemişler her yeri. İçeri girince bize giriş kartlarımızı verdiler. Daha sonra emanet dolaplarının nasıl kullanıldığını anlattılar. İçeri telefon ve herhangi elektronik eşya sokmak yasak.Sadece molalarda kullandığımız büyük salonda serbest.İlk gün yine sunumlarla geçti.En sonunda sınav yaptılar.Ben sunumları dinlemediğim için kaldım. Kalanları ayırdılar aynı sorulardan oluşan sınavı yine verdiler. Aynı soruları sorsalar da benim için farkeden birşey yoktu çünkü cevapları bilmiyordum.Ben yine kaldım :smiley:. 3. ve son hakkımızda 5 kişiydik. Görevli gelerek tek tek cevabı ima ederek soruları okudu.Lütfen geçin şu sınavdan der gibi yüz ifadesi vardı.:smiley: Neyse ki 3.sınavdan geçebildim.
 
 
+
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Y-lBvI6u_hw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
 
 
 Amazon'un deposu devasa büyük.Gerçekten de sonunu göremiyorsunuz.Herşey tıkır tıkır işliyor.Çoğu işi robotlar yapıyor.Beni bıraksalar otomatik robotları aralıksız film gibi izlerim. Öyle senkronize hareket ediyorlar. Benim işim ürünleri robotların üzerindeki raflara yerleştirmekti. 10 saat ayakta durmak beni çok yordu. 3.gün kat şefi geldi ve bana gelen tırlardan mal indirme bölümüne geçer misin dedi. Bende dedim seve seve. Hiç değilse hareket ederim otururum arada falan diye düşündüm.Dedim ya Amazon'un o deposu yeni diye. İlk hafta adam akıllı sevkiyat bile olmadı.Daha sonraları normale geçse de her türlü önceki departmanımdan rahattı. Hatta baya bi rahattı.
