@@ -12,11 +12,11 @@ locale                   : "en-US"
 title                    : "Fatih Durukan | Software Engineer"
 title_separator          : "|"
 name                     : "Fatih Durukan"
-description              : "I am Fatih Durukan, a new grad software engineer , in developing both front-end and back-end systems. I interned at a startup where I had the chance to work on many user-facing products that gets hundreds of views everyday! I live in United States."
+description              : "I am Fatih Durukan, a new grad software engineer , in developing both front-end and back-end systems. I interned at a startup where I had the chance to work on many user-facing products that gets hundreds of views everyday!"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : fatihdurukan/fatihdurukan.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : /assets/images/500x300.jpg
+teaser                   : #/assets/images/500x300.jpg
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 125
 comments:
