@@ -10,11 +10,11 @@ tags:
 
 ---
 
-
+Club Trips is a mobile app (Android, iOs) helping travelers find underground electronic music clubs worldwide. As well as that, it makes sure that clubbers never lose their party crew while being at the event.
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/clubtrips-logo-first.png){: .align-center}
 
-Club Trips is a mobile app (Android, iOs) helping travelers find underground electronic music clubs worldwide. As well as that, it makes sure that clubbers never lose their party crew while being at the event.
+
 
 See presentation shortly: http://bit.ly/2SaQ4UB
 
