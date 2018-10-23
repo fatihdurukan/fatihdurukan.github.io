@@ -1,10 +1,10 @@
 # main links
 main:
-  - title: "Erasmus"
-    url: /erasmus/
-  - title: "Amerika (ABD)"
-    url: /amerika/
-  - title: "Hakkımda"
+  - title: "Projects"
+    url: /projects/
+  - title: "Study Abroad"
+    url: /yurtdisi/
+  - title: "About Me"
     url: /about/
-  - title: "Site Haritası"
+  - title: "Sitemap"
     url: /sitemap/
