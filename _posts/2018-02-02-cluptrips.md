@@ -20,6 +20,6 @@ See presentation shortly: http://bit.ly/2SaQ4UB
 
 Club Trips is a group project for Interaction Design Methods class (Lecturer: Hans Poldoja) at Tallinn University. The team members include:
 
-Developers: Orhan Talha Kum and Fatih Durukan
+**Developers:** Orhan Talha Kum and Fatih Durukan
 
-Designer: Masho(Mariam) Margishvili
+**Designer:** Masho(Mariam) Margishvili
