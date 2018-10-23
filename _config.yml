@@ -12,11 +12,11 @@ locale                   : "en-US"
 title                    : "Fatih Durukan | Software Engineer"
 title_separator          : "|"
 name                     : "Fatih Durukan"
-description              : "I am Fatih Durukan, a software engineer who is a new grad, in developing both front-end and back-end systems. I interned at a startup where I had the chance to work on many user-facing products that gets hundreds of views everyday! I live in United States."
+description              : "I am Fatih Durukan, a new grad software engineer , in developing both front-end and back-end systems. I interned at a startup where I had the chance to work on many user-facing products that gets hundreds of views everyday! I live in United States."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : fatihdurukan/fatihdurukan.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : /assets/images/500x300.jpg
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 125
 comments:
@@ -90,7 +90,7 @@ analytics:
 author:
   name             : "Fatih Durukan"
   avatar           : /assets/images/bb.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Software Engineer"
+  bio              : "I am a new grad software engineer with experience in developing both front-end and back-end systems. I interned at a startup where I had the chance to work on many user-facing products that gets hundreds of views everyday! I live in United States."
   location         : "Kansas City, Missouri"
   email            : fatihdurukan42@gmail.com
   uri              :
