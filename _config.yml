@@ -9,10 +9,10 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Fatih Durukan"
-title_separator          : "-"
+title                    : "Fatih Durukan | Software Engineer"
+title_separator          : "|"
 name                     : "Fatih Durukan"
-description              : "Ben Fatih Durukan, İstanbul Üniversitesi Bilgisayar Mühendisliği 4. Sınıf öğrencisiyim. İstanbul/Bahçelievler’de yaşıyorum. Java ve teknolojilerini öğrenip/kullanarak kendimi geliştiriyorum.Kodlama ve yazılımla uğraşmanın yanı sıra oryantiring sporu, kayak, tiyatro kulübü, halk oyunları gibi takım ve kulüplerde aktif rol aldım. Ayrıca yeni ülkeler, insanlar keşfetmeyi çok seviyorum."
+description              : "I am Fatih Durukan, a software engineer who is a new grad, in developing both front-end and back-end systems. I interned at a startup where I had the chance to work on many user-facing products that gets hundreds of views everyday! I live in United States."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : fatihdurukan/fatihdurukan.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -90,8 +90,8 @@ analytics:
 author:
   name             : "Fatih Durukan"
   avatar           : /assets/images/bb.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "İstanbul Üniversitesi Bilgisayar Mühendisliği öğrencisi"
-  location         : "Istanbul, Türkiye"
+  bio              : "Software Engineer"
+  location         : "Kansas City, Missouri"
   email            : fatihdurukan42@gmail.com
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
