@@ -28,6 +28,7 @@ gallery:
 
 ## Testing of ClubTrip's Paper Prototype
 
+{% include gallery caption="This is a sample gallery with **Markdown support**." %}
 
 
 
