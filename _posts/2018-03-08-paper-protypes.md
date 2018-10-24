@@ -51,30 +51,30 @@ gallery3:
     alt: "placeholder image 2"
     title: "Image 2 title caption"
 gallery4:
-  - url: /assets/images/paper-protype-preparation11.jpg
-    image_path: /assets/images/paper-protype-preparation11.jpg
+  - url: /assets/images/paper-protype-preparation11.png
+    image_path: /assets/images/paper-protype-preparation11.png
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-  - url: /assets/images/paper-protype-preparation12.jpg
-    image_path: /assets/images/paper-protype-preparation12.jpg
+  - url: /assets/images/paper-protype-preparation12.png
+    image_path: /assets/images/paper-protype-preparation12.png
     alt: "placeholder image 2"
     title: "Image 2 title caption"
 gallery5:
-  - url: /assets/images/paper-protype-preparation13.jpg
-    image_path: /assets/images/paper-protype-preparation13.jpg
+  - url: /assets/images/paper-protype-preparation13.png
+    image_path: /assets/images/paper-protype-preparation13.png
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-  - url: /assets/images/paper-protype-preparation14.jpg
-    image_path: /assets/images/paper-protype-preparation14.jpg
+  - url: /assets/images/paper-protype-preparation14.png
+    image_path: /assets/images/paper-protype-preparation14.png
     alt: "placeholder image 2"
     title: "Image 2 title caption"
 gallery6:
-  - url: /assets/images/paper-protype-preparation15.jpg
-    image_path: /assets/images/paper-protype-preparation15.jpg
+  - url: /assets/images/paper-protype-preparation15.png
+    image_path: /assets/images/paper-protype-preparation15.png
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-  - url: /assets/images/paper-protype-preparation16.jpg
-    image_path: /assets/images/paper-protype-preparation16.jpg
+  - url: /assets/images/paper-protype-preparation16.png
+    image_path: /assets/images/paper-protype-preparation16.png
     alt: "placeholder image 2"
     title: "Image 2 title caption"
 gallery7:
