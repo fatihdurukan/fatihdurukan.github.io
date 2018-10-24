@@ -78,26 +78,22 @@ gallery6:
     alt: "placeholder image 2"
     title: "Image 2 title caption"
 gallery7:
-  - url: /assets/images/paper-protype-preparation17.jpg
-    image_path: /assets/images/paper-protype-preparation17.jpg
+  - image_path: /assets/images/paper-protype-preparation17.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-  - url: /assets/images/paper-protype-preparation18.jpg
-    image_path: /assets/images/paper-protype-preparation18.jpg
+  - image_path: /assets/images/paper-protype-preparation18.jpg
     alt: "placeholder image 2"
     title: "Image 2 title caption"
-  - url: /assets/images/paper-protype-preparation19.jpg
-    image_path: /assets/images/paper-protype-preparation19.jpg
+  - image_path: /assets/images/paper-protype-preparation19.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-  - url: /assets/images/paper-protype-preparation20.jpg
-    image_path: /assets/images/paper-protype-preparation20.jpg
+  - image_path: /assets/images/paper-protype-preparation20.jpg
     alt: "placeholder image 2"
     title: "Image 2 title caption"
 
 ---
 
-## Testing of ClubTrips' Paper Prototype
+**Testing of ClubTrips' Paper Prototype**
 
 {% include gallery id="gallery" layout="half" caption="**Preparation Process**" %}
 
@@ -105,9 +101,9 @@ gallery7:
 
 **Testing Tasks:**
 
-    * Filter and pick a house party playing techno music on the map.
-    * Save an event and go there when you get a notification and give feedback to the party if it is necessary (by using a "Help" button).
-    * Register and find your party crew members. 
+  * Filter and pick a house party playing techno music on the map.
+  * Save an event and go there when you get a notification and give feedback to the party if it is necessary (by using a "Help" button).
+  * Register and find your party crew members. 
 
 **Issues:**
 
@@ -125,9 +121,10 @@ gallery7:
 * The function for registering the users had to be overlooked (Bluetooth might not be an option)
 * Emojis and colors could be combined.
 
-{% include gallery id="gallery2" layout="half" caption="**Preparation Process**" %}
+{% include gallery id="gallery2" layout="half" %}
  
 ## Test No.2:
+
 
 **Changed testing tasks:**
 
@@ -135,7 +132,7 @@ gallery7:
 * Save an event and go there when you are notified. 
 * Register your new crew and find its members on a map.
  
- {% include gallery id="gallery3" layout="half" caption="**Preparation Process**" %}
+ {% include gallery id="gallery3" layout="half" %}
 
 **Issues:**
 
@@ -145,7 +142,7 @@ gallery7:
 * In "Crew Finder" screen prototype, the usernames had to be separate papers for a better understanding of a process.
 * When pushing the buttons on a map to see the friends, it would be nice if you could see their profiles (nickname + photo)
 
-{% include gallery id="gallery4" layout="half" caption="**Preparation Process**" %}
+{% include gallery id="gallery4" %}
 
 ## Test No.3:
 
@@ -155,7 +152,7 @@ gallery7:
 
 * 3)By using a "Crew Finding" app feature, register your new crew and find its members on a map.
 
-{% include gallery id="gallery5" layout="half" caption="**Preparation Process**" %}
+{% include gallery id="gallery5" layout="half" caption="**Galery5**" %}
 
 **Issues:**
 
@@ -168,7 +165,7 @@ gallery7:
 
 * 2) Save a chosen event (House Party) and go there when you are notified. Rate it afterward.
 
-{% include gallery id="gallery6" layout="half" caption="**Preparation Process**" %}
+{% include gallery id="gallery6" caption="**Galery6**" %}
 
 **Issues:**
 
@@ -184,4 +181,4 @@ gallery7:
 * The "Menu" bar was missing or was not clear for the first two users.
 * Users interacted differently with the paper prototype than they would digitally.
 
-{% include gallery id="gallery7" layout="half" caption="**Preparation Process**" %}
+{% include gallery id="gallery7" caption="**Galery6**" %}
