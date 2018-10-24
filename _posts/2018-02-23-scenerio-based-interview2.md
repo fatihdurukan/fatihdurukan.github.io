@@ -1,5 +1,5 @@
 ---
-title: "Cluptrips Matthew's scenario-based session"
+title: "Matthew's Scenario-based Session (Cluptrips)"
 categories:
   - Cluptrips
 tags:
@@ -18,6 +18,7 @@ tags:
 **Interviewee:** Emrah from Turkey
 
 **Occupation:** Russian Language student
+
 **Age:** 22-23
 
 He thinks that he would trust the pop-up parties because he is bored of ordinary clubs where all parties are same.Hence he would trust and try new things.He says that if he could go with his friend, he would feel more comfortable.

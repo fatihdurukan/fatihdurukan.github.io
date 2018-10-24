@@ -1,5 +1,5 @@
 ---
-title: "Cluptrips Hannah's scenario-based session"
+title: "Hannah's Scenario-based Session (Cluptrips)"
 categories:
   - Cluptrips
 tags:

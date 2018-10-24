@@ -1,5 +1,5 @@
 ---
-title: "Cluptrips Aleksander's scenario-based session"
+title: "Aleksander's Scenario-based Session (Cluptrips)"
 categories:
   - Cluptrips
 tags:
