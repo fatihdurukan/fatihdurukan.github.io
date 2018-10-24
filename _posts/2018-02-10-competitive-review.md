@@ -1,5 +1,5 @@
 ---
-title: "Competitive Review"
+title: "Cluptrips - Competitive Review"
 categories:
   - Cluptrips
 tags:

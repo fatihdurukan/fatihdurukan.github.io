@@ -90,7 +90,7 @@ analytics:
 author:
   name             : "Fatih Durukan"
   avatar           : /assets/images/avatar.png # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a new grad software engineer with experience in developing both front-end and back-end systems. I interned at a startup where I had the chance to work on many user-facing products that gets hundreds of views everyday! I live in United States."
+  bio              : "I am a new grad software engineer with experience in developing both front-end and back-end systems. I interned at a startup where I had the chance to work on many user-facing products that gets hundreds of views everyday!"
   location         : "Kansas City, Missouri"
   email            : fatihdurukan42@gmail.com
   uri              :
