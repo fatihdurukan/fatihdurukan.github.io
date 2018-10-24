@@ -152,7 +152,7 @@ gallery7:
 
 * 3)By using a "Crew Finding" app feature, register your new crew and find its members on a map.
 
-{% include gallery id="gallery5" layout="half" caption="**Galery5**" %}
+{% include gallery id="gallery5" layout="half"  %}
 
 **Issues:**
 
@@ -165,7 +165,7 @@ gallery7:
 
 * 2) Save a chosen event (House Party) and go there when you are notified. Rate it afterward.
 
-{% include gallery id="gallery6" caption="**Galery6**" %}
+{% include gallery id="gallery6" %}
 
 **Issues:**
 
@@ -181,4 +181,4 @@ gallery7:
 * The "Menu" bar was missing or was not clear for the first two users.
 * Users interacted differently with the paper prototype than they would digitally.
 
-{% include gallery id="gallery7" caption="**Galery6**" %}
+{% include gallery id="gallery7" %}
