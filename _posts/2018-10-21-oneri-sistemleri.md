@@ -16,7 +16,7 @@ toc_label: "İÇERİK"
 toc_icon: "bookmark"
 ---
 
-Öneri sistemleri bir kullanıcı için kullanılabilecek öneriler veren yazılım ve tekniklerdir. Öneriler hangi ürünlerin satılabileceği, hangi müziklerin dinlenebileceği, hangi kitapların okunabileceği, hangi filmlerin izlenebileceği gibi çeşitli kararları bir takın teknikler kullanılarak üretilir.
+Öneri sistemleri bir kullanıcı için kullanılabilecek öneriler veren yazılım ve tekniklerdir. Öneriler hangi ürünlerin satılabileceği, hangi müziklerin dinlenebileceği, hangi kitapların okunabileceği, hangi filmlerin izlenebileceği gibi çeşitli kararları bir takım teknikler kullanılarak üretilir.
 
 ## ÖNERİ SİSTEMLERİ
 
@@ -120,10 +120,9 @@ Belleğe dayalı yöntemler basit olsada daha çok tahminsel öneriler üreterek
  Bu öneri sistemi yukarda bahsedilen öneri sistemlerinin birleşimidir.
  Hibrid sistemler öneri sistemlerinin dezavantajlarını ortadan kaldırmak için diğer öneri sistemlerinin avantajlı olduğu alanları kullanır.Örneğin davranışsal öneri sistemleri herhangi bir derecelendirmesi olmayan ürünleri öneremez. İçerik bazlı öneri algoritmasındaysa bunun tersi olarak derecelendirmeler değerlendirmeye katılmadan öneri yapılır.Hibrid öneri sisteminde bu sistemlerin dezavantajlarını ortadan kaldırılarak daha verimli bir öneri sistemi ortaya çıkmıştır.
 
- **İzinsiz veya kaynak göstermeden makaleyi paylaşmayınız!:**{: .notice--danger}
+ **İzinsiz veya kaynak göstermeden makaleyi paylaşmayınız!**{: .notice--danger}
 
 
- <iframe width="560" height="315" src="https://www.youtube.com/watch?v=Eeg1DEeWUjA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Kaynakça
 
