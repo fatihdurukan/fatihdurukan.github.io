@@ -11,7 +11,8 @@ header:
 
 ---
 
-<object data="{{ /assets/file-based-database-management-software.pdf }}" width="1000" height="1000" type='application/pdf'/>
+<iframe src="https://drive.google.com/file/d/1KiywlZD2Q2yAR_LvXZ_W1V7tCNewOb7j/view" width="100%" height="800em"></iframe>
+
 
 
 
