@@ -6,7 +6,7 @@ permalink: /cluptrips/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/newyork.jpg
+  overlay_image: /assets/images/tallinn.jpg
 
 
 excerpt: 'Club Trips is a mobile app (Android, iOs) helping travelers find underground electronic music clubs worldwide. As well as that, it makes sure that clubbers never lose their party crew while being at the event.'
@@ -23,25 +23,25 @@ feature_row:
     title: "Cluptrips` Personas"
     url: "/cluptrips/personas/"
     btn_label: "Read More"
-    btn_class: "btn--primary"
+    btn_class: "btn--success"
   - image_path: /assets/images/clubtrips-logo-first.png
     alt: "Competitive Review"
     title: "Cluptrips` Competitive Review"
     url: "/cluptrips/competitive-review/"
     btn_label: "Read More"
-    btn_class: "btn--primary"
+    btn_class: "btn--warning"
   - image_path: /assets/images/clubtrips-logo-first.png
     alt: "Scenario No.1"
     title: "Scenario No.1"
     url: "/cluptrips/scenerio1/"
     btn_label: "Read More"
-    btn_class: "btn--primary"
+    btn_class: "btn--danger"
   - image_path: /assets/images/clubtrips-logo-first.png
     alt: "Scenario No.2"
     title: "Scenario No.2"
     url: "/cluptrips/scenerio2/"
     btn_label: "Read More"
-    btn_class: "btn--primary"
+    btn_class: "btn--inverse"
   - image_path: /assets/images/clubtrips-logo-first.png
     alt: "Scenario No.3"
     title: "Scenario No.3"
@@ -108,4 +108,4 @@ feature_row:
 
 
 
-{% include feature_row width="700px" height="500px"%}
+{% include feature_row %}
