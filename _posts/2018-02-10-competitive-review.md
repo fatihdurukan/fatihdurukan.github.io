@@ -7,6 +7,8 @@ tags:
   - project
   - android
   - app
+header:
+  teaser: /assets/images/competetive-image3.png
 ---
 
 ## Clubbing Tribe 

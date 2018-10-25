@@ -5,14 +5,14 @@ permalink: /sitemap/
 author_profile: false
 ---
 
-Bütün içeriklere buradan ulaşabilirsiniz.
 
-<font color="red"><h2>Sayfalar</h2></font>
+
+<font color="red"><h2>Pages</h2></font>
 {% for post in site.pages %}
   {% include archive-single.html %}
 {% endfor %}
 
-<font color="red"><h2>Gönderiler</h2></font>
+<font color="red"><h2>Posts</h2></font>
 {% for post in site.posts %}
   {% include archive-single.html %}
 {% endfor %}
