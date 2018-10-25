@@ -3,7 +3,7 @@ title: "Amerika`da Araba Kiralama "
 header:
   overlay_color: "#333"
 categories:
-  - yurtdisi
+  - Yurtdışı
 tags:
   - yolculuk
   - amerika
