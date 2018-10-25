@@ -1,5 +1,5 @@
 ---
-title: "Paper Prototype (Cluptrips)"
+title: "Paper Prototype"
 categories:
   - Cluptrips
 tags:
@@ -91,7 +91,7 @@ gallery7:
     alt: "placeholder image 2"
     title: "Image 2 title caption"
 header:
-  teaser: /assets/images/clubtrips-logo-first.png
+  teaser: /assets/images/paper-protype-preparation3.jpg
 
 ---
 

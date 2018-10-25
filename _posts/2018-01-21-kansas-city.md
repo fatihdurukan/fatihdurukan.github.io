@@ -9,7 +9,7 @@ tags:
   - kansas
   - city
 categories:
-  - Yurtdışı
+  - yurtdisi
 toc: true
 toc_label: "İçerik"
 toc_icon: "bookmark"

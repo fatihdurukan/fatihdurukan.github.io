@@ -1,5 +1,5 @@
 ---
-title: "High Fidelity Prototype (Cluptrips)"
+title: "High Fidelity Prototype"
 categories:
   - Cluptrips
 tags:

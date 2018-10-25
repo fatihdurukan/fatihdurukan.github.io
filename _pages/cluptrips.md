@@ -9,7 +9,10 @@ header:
   overlay_image: /assets/images/tallinn.jpg
 
 
-excerpt: 'Club Trips is a mobile app (Android, iOs) helping travelers find underground electronic music clubs worldwide. As well as that, it makes sure that clubbers never lose their party crew while being at the event.'
+excerpt: 'Club Trips is a mobile app (Android, iOs) helping travelers find underground electronic music clubs worldwide. As well as that, it makes sure that clubbers never lose their party crew while being at the event.
+**Developers:** Orhan Talha Kum and Fatih Durukan
+
+**Designer:** Masho(Mariam) Margishvili'
 
 feature_row:
   - image_path: /assets/images/clubtrips-logo-first.png

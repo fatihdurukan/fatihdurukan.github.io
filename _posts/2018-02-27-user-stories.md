@@ -1,5 +1,5 @@
 ---
-title: "User Stories (Cluptrips)"
+title: "User Stories"
 categories:
   - Cluptrips
 tags:
@@ -7,6 +7,8 @@ tags:
   - project
   - android
   - app
+header:
+  teaser: /assets/images/user-stories.png
 ---
 
 ## What is User Stories?

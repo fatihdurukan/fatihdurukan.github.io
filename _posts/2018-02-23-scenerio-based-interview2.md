@@ -1,5 +1,5 @@
 ---
-title: "Matthew's Scenario-based Session (Cluptrips)"
+title: "Matthew's Scenario-based Session"
 categories:
   - Cluptrips
 tags:

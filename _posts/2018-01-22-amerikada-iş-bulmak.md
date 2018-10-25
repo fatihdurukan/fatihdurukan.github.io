@@ -3,7 +3,7 @@ title: "Amerika'da İş Bulmak & Amazon'da Çalışmak"
 header:
   overlay_color: "#333"
 categories:
-  - Yurtdışı
+  - yurtdisi
 tags:
   - yolculuk
   - amerika

@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Site Haritası"
+title: "Sitemap"
 permalink: /sitemap/
 author_profile: false
 ---

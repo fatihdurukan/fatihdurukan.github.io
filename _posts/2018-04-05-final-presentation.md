@@ -1,5 +1,5 @@
 ---
-title: "Final Presentation (Cluptrips)"
+title: "Final Presentation"
 categories:
   - Cluptrips
 tags:
@@ -23,3 +23,9 @@ header:
 
 
 The codes of the project is [`here.`](https://github.com/talhakum/CrewFinder)
+
+Club Trips is a group project at Tallinn University. The team members include:
+
+**Developers:** Orhan Talha Kum and Fatih Durukan
+
+**Designer:** Masho(Mariam) Margishvili

@@ -3,7 +3,7 @@ title: "Amerika`da Araba Satın Almak"
 header:
   overlay_color: "#333"
 categories:
-  - Yurtdışı
+  - yurtdisi
 tags:
   - yolculuk
   - amerika

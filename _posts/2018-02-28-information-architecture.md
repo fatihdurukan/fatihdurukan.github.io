@@ -1,5 +1,5 @@
 ---
-title: "Information Architecture (Cluptrips)"
+title: "Information Architecture"
 categories:
   - Cluptrips
 tags:

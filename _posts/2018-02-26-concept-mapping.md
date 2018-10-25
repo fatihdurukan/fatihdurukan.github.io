@@ -1,5 +1,5 @@
 ---
-title: "Concept Mapping (Cluptrips)"
+title: "Concept Mapping"
 categories:
   - Cluptrips
 tags:
