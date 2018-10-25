@@ -14,8 +14,7 @@ intro:
   - excerpt: 'Club Trips is a mobile app (Android, iOs) helping travelers find underground electronic music clubs worldwide. As well as that, it makes sure that clubbers never lose their party crew while being at the event.'
 
 feature_row1:
-  - image_path: /assets/images/clubtrips-logo-first.png
-    alt: "Cluptrips"
+  - alt: "Cluptrips"
     title: "Cluptrips"
     excerpt: 'What is Cluptrips?'
     url: "/cluptrips/cluptrips/"
@@ -59,6 +58,8 @@ feature_row5:
     btn_class: "btn--primary"
 
 ---
+
+Club Trips is a mobile app (Android, iOs) helping travelers find underground electronic music clubs worldwide. As well as that, it makes sure that clubbers never lose their party crew while being at the event.
 
 {% include feature_row id="feature_row1" type="left" %}
 
