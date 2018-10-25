@@ -1,5 +1,5 @@
 ---
-title: "Study Abroad"
+title: "Cluptrips"
 layout: splash
 permalink: /cluptrips/
 
@@ -11,23 +11,23 @@ header:
 
 
 intro:
-  - excerpt: 'Bir rüya gibi : Amerika...'
+  - excerpt: 'Club Trips is a mobile app (Android, iOs) helping travelers find underground electronic music clubs worldwide. As well as that, it makes sure that clubbers never lose their party crew while being at the event.'
 
 feature_row1:
-  - image_path: /assets/images/amerikaya-yolculuk-rota.png
-    alt: "Amerika'ya Yolculuk"
-    title: "Amerika'ya Yolculuk"
-    excerpt: 'İstanbul da başlayıp Kansas City de sonlanan, 3 aktarmayla 20 saatten fazla süren bir yolculuk...'
-    url: "/yurtdışı/amerikaya-yolculuk/"
+  - image_path: /assets/images/clubtrips-logo-first.png
+    alt: "Cluptrips"
+    title: "Cluptrips"
+    excerpt: 'What is Cluptrips?'
+    url: "/cluptrips/cluptrips/"
     btn_label: "Devamını Oku"
     btn_class: "btn--primary"
 
 feature_row2:
-  - image_path: /assets/images/amerikada-arac-kiralama.jpg
-    alt: "Amerika'da Araba Kiralama"
-    title: "Amerika'da Araba Kiralama"
+  - image_path: /assets/images/hannah-primary-persona3.png
+    alt: "Cluptrips` Personas"
+    title: "Cluptrips` Personas"
     excerpt: 'Amerika`da araba kiralamak sanılandan daha kolay.'
-    url: "/yurtdışı/amerikada-araba-kiralama/"
+    url: "/cluptrips/personas/"
     btn_label: "Devamını Oku"
     btn_class: "btn--primary"
 
