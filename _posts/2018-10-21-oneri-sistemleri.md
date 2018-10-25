@@ -3,13 +3,12 @@ title: "Öneri Sistemleri"
 header:
   overlay_color: "#333"
 tags:
-  - yolculuk
-  - amerika
-  - abd
-  - kansas
-  - city
-categories:
-  - Yurtdışı
+  - öneri
+  - sistem
+  - yazılım
+  - tavsiye
+
+
 toc: true
 toc_sticky: true
 toc_label: "İÇERİK"
