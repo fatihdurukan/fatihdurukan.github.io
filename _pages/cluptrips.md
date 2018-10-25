@@ -9,19 +9,16 @@ header:
   overlay_image: /assets/images/newyork.jpg
 
 
+excerpt: 'Club Trips is a mobile app (Android, iOs) helping travelers find underground electronic music clubs worldwide. As well as that, it makes sure that clubbers never lose their party crew while being at the event.'
 
-intro:
-  - excerpt: 'Club Trips is a mobile app (Android, iOs) helping travelers find underground electronic music clubs worldwide. As well as that, it makes sure that clubbers never lose their party crew while being at the event.'
-
-feature_row1:
-  - alt: "Cluptrips"
+feature_row:
+  - image_path: /assets/images/clubtrips-logo-first.png
+    alt: "Cluptrips"
     title: "Cluptrips"
     excerpt: 'What is Cluptrips?'
     url: "/cluptrips/cluptrips/"
     btn_label: "Devamını Oku"
     btn_class: "btn--primary"
-
-feature_row2:
   - image_path: /assets/images/hannah-primary-persona3.png
     alt: "Cluptrips` Personas"
     title: "Cluptrips` Personas"
@@ -29,8 +26,6 @@ feature_row2:
     url: "/cluptrips/personas/"
     btn_label: "Devamını Oku"
     btn_class: "btn--primary"
-
-feature_row3:
   - image_path: /assets/images/amerika-arabamız.png
     alt: "Amerika'da Araba Satın Almak"
     title: "Amerika'da Araba Satın Almak"
@@ -38,6 +33,9 @@ feature_row3:
     url: "/yurtdışı/amerikada-araba-satın-alma/"
     btn_label: "Devamını Oku"
     btn_class: "btn--primary"
+
+
+
 
 feature_row4:
   - image_path: /assets/images/kansas-city.jpg
@@ -61,12 +59,4 @@ feature_row5:
 
 Club Trips is a mobile app (Android, iOs) helping travelers find underground electronic music clubs worldwide. As well as that, it makes sure that clubbers never lose their party crew while being at the event.
 
-{% include feature_row id="feature_row1" type="left" %}
-
-{% include feature_row id="feature_row2" type="left" %}
-
-{% include feature_row id="feature_row3" type="left" %}
-
-{% include feature_row id="feature_row4" type="left" %}
-
-{% include feature_row id="feature_row5" type="left" %}
+{% include feature_row  %}
