@@ -2,12 +2,12 @@
 title: "Öneri Sistemleri"
 header:
   overlay_color: "#333"
+  teaser: /assets/images/sistem-karsilastirma.png
 tags:
   - öneri
   - sistem
   - yazılım
   - tavsiye
-
 
 toc: true
 toc_sticky: true
