@@ -1,7 +1,7 @@
 ---
 title: "Study Abroad"
 layout: splash
-permalink: /projects/
+permalink: /cluptrips/
 
 header:
   overlay_color: "#000"
