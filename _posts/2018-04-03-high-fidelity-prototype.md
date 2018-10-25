@@ -9,6 +9,8 @@ tags:
   - app
   - concept
   - mapping
+header:
+  teaser: /assets/images/club-trips-screen.png
 ---
 
 ## What is High Fidelity?

@@ -7,6 +7,8 @@ tags:
   - project
   - android
   - app
+header:
+  teaser: /assets/images/architecture-diagram3.jpg
 ---
 
 ## Diagram for "ClubTrip" Information Architecture

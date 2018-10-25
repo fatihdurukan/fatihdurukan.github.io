@@ -90,6 +90,8 @@ gallery7:
   - image_path: /assets/images/paper-protype-preparation20.jpg
     alt: "placeholder image 2"
     title: "Image 2 title caption"
+header:
+  teaser: /assets/images/clubtrips-logo-first.png
 
 ---
 
