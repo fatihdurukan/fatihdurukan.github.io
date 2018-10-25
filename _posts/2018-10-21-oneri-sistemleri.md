@@ -1,5 +1,5 @@
 ---
-title: "Kansas City Gezi Notları"
+title: "Öneri Sistemleri"
 header:
   overlay_color: "#333"
 tags:
@@ -11,16 +11,15 @@ tags:
 categories:
   - Yurtdışı
 toc: true
+toc_sticky: true
 toc_label: "İÇERİK"
 toc_icon: "bookmark"
 ---
 
-Jazz müziğiyle ve barbeküsüyle ünlü, iki eyalet tek şehir : Kansas City.
-
+Öneri sistemleri bir kullanıcı için kullanılabilecek öneriler veren yazılım ve tekniklerdir. Öneriler hangi ürünlerin satılabileceği, hangi müziklerin dinlenebileceği, hangi kitapların okunabileceği, hangi filmlerin izlenebileceği gibi çeşitli kararları bir takın teknikler kullanılarak üretilir.
 
 ## ÖNERİ SİSTEMLERİ
 
-Öneri sistemleri bir kullanıcı için kullanılabilecek öneriler veren yazılım ve tekniklerdir. Öneriler hangi ürünlerin satılabileceği, hangi müziklerin dinlenebileceği, hangi kitapların okunabileceği, hangi filmlerin izlenebileceği gibi çeşitli kararları bir takın teknikler kullanılarak üretilir.
 
 "Ürün" sistemin kullanıcalara ne önerdiğini belirtmek için kullanılan genel terimdir. Öneri sistemleri belirli bir ürünü ele alır ve onun içeriği, tasarımı, kullanıcı etkileşimi gibi bir çok özelliklerini ele alır ve bunları öneri teknikleriyle işleyerek kullanıcıya o ürünle alakalı etkili ve kullanışlı öneriler sunar.
 
@@ -129,13 +128,9 @@ Belleğe dayalı yöntemler basit olsada daha çok tahminsel öneriler üreterek
 ## Kaynakça
 
 
-
-[^1]:	Recommender System [online] https://en.wikipedia.org/wiki/Recommender_system
-[^2]:	A. Toscher, M. Jahrer, and R. Bell, "The BigChaos solution to the Netflix grand prize," www.netflixprize.com/assets/GrandPrize2009_BPC_BigChaos.pdf 2009
-[^3]:	F.O.Isinkaye, 2015, Recommendation systems: Principles, methods and evaluation, phD, Cairo University
-[^4]:	KORBUT, Daniil, Recommendation System Algorithms, [online] , https://blog.statsbot.co/recommendation-system-algorithms-ba67f39ac9a3
-[^5]:	AGGARWAL, Charu C, 2016, Recommender Systems: The Textbook, Springer, ISBN-13: 978-3319296579
-[^6]:	JANNACH, Dietmar, 2015, Recommender Systems: An Introduction, Cambridge, ISBN-13: 978-0521493369
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/x2ZCddp4blY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+* Recommender System [online] https://en.wikipedia.org/wiki/Recommender_system
+* A. Toscher, M. Jahrer, and R. Bell, "The BigChaos solution to the Netflix grand prize," www.netflixprize.com/assets/GrandPrize2009_BPC_BigChaos.pdf 2009
+* F.O.Isinkaye, 2015, Recommendation systems: Principles, methods and evaluation, phD, Cairo University
+* KORBUT, Daniil, Recommendation System Algorithms, [online] , https://blog.statsbot.co/recommendation-system-algorithms-ba67f39ac9a3
+* AGGARWAL, Charu C, 2016, Recommender Systems: The Textbook, Springer, ISBN-13: 978-3319296579
+* JANNACH, Dietmar, 2015, Recommender Systems: An Introduction, Cambridge, ISBN-13: 978-0521493369
