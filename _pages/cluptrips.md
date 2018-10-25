@@ -20,13 +20,13 @@ feature_row:
     btn_class: "btn--primary"
   - image_path: /assets/images/clubtrips-logo-first.png
     alt: "Personas"
-    title: "Cluptrips` Personas"
+    title: "Personas"
     url: "/cluptrips/personas/"
     btn_label: "Read More"
     btn_class: "btn--success"
   - image_path: /assets/images/clubtrips-logo-first.png
     alt: "Competitive Review"
-    title: "Cluptrips` Competitive Review"
+    title: "Competitive Review"
     url: "/cluptrips/competitive-review/"
     btn_label: "Read More"
     btn_class: "btn--warning"
@@ -47,7 +47,7 @@ feature_row:
     title: "Scenario No.3"
     url: "/cluptrips/scenerio3/"
     btn_label: "Read More"
-    btn_class: "btn--primary"
+    btn_class: "btn--info"
   - image_path: /assets/images/clubtrips-logo-first.png
     alt: "Aleksander's Scenario-based Session"
     title: "Aleksander's Scenario-based Session"
