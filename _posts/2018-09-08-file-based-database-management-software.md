@@ -1,13 +1,13 @@
 ---
-title: "Fibonacci Sequence Extractor with Perl"
-categories:
+title: "File Based Database Management Software with Perl"
+
 tags:
-  - fibonacci
-  - sequence
+  - file
+  - database
   - software
   - perl
 header:
-  teaser: /assets/images/perl-500x500.gif
+  teaser: /assets/images/What-is-Fibonacci-Sequence.jpg
 
 ---
 
