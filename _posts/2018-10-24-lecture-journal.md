@@ -4,10 +4,11 @@ header:
   overlay_color: "#333"
   teaser: /assets/images/lecture-journal.png
 tags:
-  - cyberattacks
-  - usa
+  - geopolitics
+  - cyber
+  - security
 
-excerpt: 'This is lecture journal that how I have noticed cyber security issues in my daily live, in society around me. In addition, interesting and new ideas learned from class, questions that came from the lectures, and additional thoughts regarding them.'
+excerpt: 'This is the lecture journal that how I have noticed cyber security issues in my daily live, in society around me. In addition, interesting and new ideas learned from class, questions that came from the lectures, and additional thoughts regarding them.'
 
 toc: true
 toc_sticky: true
@@ -31,6 +32,8 @@ Geography is significant in cyber power, even though cyber matters do not seem t
 
 
 **Second Entry:**
+
+
 ##Ideas Learned from Class
 
 During the first class, when we discussed keywords and their meaning, though I had prior knowledge about the vocabulary, I realized that I was wrong about the meaning of cyberspace and distinguishing between cybercrime and cyberattack. Before class, I had thought that cyberspace was only about the cyber security field, but the actual definition construes cyberspace as all computer and networks in existence, including air-gapped systems. Also, since cyberattack includes the word "attack" in it, people might think that every cyberattack is a cybercrime. Is every cyberattack a cybercrime? In truth, it might not be. Cyberattacks can be done for security purposes such as state security, data protection and testing. However, cyber weapons have no capacity for violence and do not alter the nature or means of war. By the definition there can be no such thing as a cyber war. Frankly, this is thought provoking because cyberattacks can cause so much harm to a country, to the point that a country might collapse, but it is not a war at all. Cyber has more indirect effects of the attacks and indeed the most powerful effect may be psychological. For example, Estonia and Georgia were hit by cyberattacks and there was no physical wreckage or loss of life. In our first class we had a group discussion and the question was "What role has the cyber revolution had on changing world order?".  Because using the cyber net can affect states and daily lives as much as using conventional arms and it offers feasible substitute, it has an incredible power. The cyber net is cheaper and available to every state and it does not need to be in the constitution to construct, no soldiers, and not as much as conventional arms are needed. But the cyber net has almost the same effect as conventional arms. So, we can say that the cyber net is a game changer and it is a chance for every state to be in competition on changing world order. Cyber revolution has a huge potential to harm beyond traditional notions of war and it poses new challenges for national and international security. That is why we need to create, study and apply cyber security.

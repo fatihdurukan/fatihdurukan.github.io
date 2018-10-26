@@ -4,8 +4,10 @@ header:
   overlay_color: "#333"
   teaser: /assets/images/280415_digital-diplomacy.jpg
 tags:
-  - cyberattacks
-  - usa
+  - foreign
+  - policy
+  - digital
+  - diplomacy
 
 excerpt: 'This is a reading reflection of Foreign policy in an era of digital diplomacy by Olubukola S. Adesina that includes my thoughts, opinions, and any questions I had about the text.  '
 
