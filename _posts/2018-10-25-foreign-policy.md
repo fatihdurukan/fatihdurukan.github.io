@@ -1,5 +1,5 @@
 ---
-title: "Foreign policy in an era of digital diplomacy"
+title: "Foreign policy in an Era of Digital Diplomacy"
 header:
   overlay_color: "#333"
   teaser: /assets/images/280415_digital-diplomacy.jpg

@@ -1,5 +1,5 @@
 ---
-title: "Small states and cyber security"
+title: "Small States and Cyber Security"
 header:
   overlay_color: "#333"
   teaser: /assets/images/red-padlock_cybersecurity_threat_ransomeware-100751597-large.jpg
