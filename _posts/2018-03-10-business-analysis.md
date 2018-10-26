@@ -43,16 +43,64 @@ Assuming that we have more than 100,000 users, we are planning to make profit fr
 
 We have searched for the possible competitive mobile applications and software companies in market, and we have found three of them:
 
-|  | Advantages | Disadvantages | Versus ClupTrip |
-|:--------|:-------:|--------:|:--------|
-| Clubbers App to Ibiza   | *Easy to use - complete coverage: save to favorites, buy online, map, Auto Navigation, share, more info
-* users find it extremely helpful app while traveling in Ibiza
-   | cell3   | cell1   |
-| Clubbing Tribe   | The app is easy to use and includes icons for widgets.   | cell6   | cell4   |
-|-----------------------------|---------|
-|  PartyWith  | It is easy to use. Communicating with other people is easy as well.   | cell3   | cell1   |
-| cell4   | cell5   | cell6   | cell4   |
-|=============================|=========|
-| Foot1   | Foot2   | Foot3   | Foot1   | 
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/user-stories.png){: .align-center}
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/business-analysis-table.png){: .align-center}
+
+**Supplier power:** In order to develop our mobile applications, we need to be supplied by various software development tools like Google Maps, Firebase database, servers, Android Studio and Xcode software development environment, Java programming language from Oracle. For maps, we don't have so many choices so Google Maps is pretty expensive and we don't have any other alternative. For database, there are so many alternatives that's why database prices are quite cheap.
+
+**Buyer power:** Since there are approximately 3 billion android and iOS devices actively, we likely have a wide scale of customers all over the world such as club owners, organizations, entertainment companies and individuals, which gives us power on determining the prices.
+
+**Threat of Substitution:** Because there are a few similar mobile applications that give similar services, and because they are not as specified as ours, they can not be counted as serious potential threat and they can not replace our application. Our application targets travelers and underground parties, and gives a worldwide service, which are the main features of it that differentiate us from others.
+
+**Threat of New Entry:** Since our application requires strong and complicated engineering, creative design and professional marketing, only software companies which are bigger than medium size can deal with this process. But there is always threat of new entry in software development. For example, Uber and Lyft are based on same ideas, both of them are useful and rival to each other. In our case, there might be companies to enter our market, as well.
+
+## Break-Even Analysis
+
+**Fixed-Costs**
+
+**Annual**
+* Rent:
+Average office in Tallinn costs: 36,000 €
+
+**Wage:**
+1 Manager: 36,000€
+5 Software Engineers: 30,000€ for each = 150,000€
+2 Designer: 24,000€ for each = 48,000€
+2 Marketing personal = 21,000€ for each = 42,000€
+
+**Utilities**
+Bills: 10,000€
+
+* Insurance: 10,000€
+* Depreciation: 5,000€
+* Advertising: 10,000€
+
+**TOTAL FIXED COST:** 347,000€
+
+
+## Variable Costs
+
+Software Development Tools (Database, Servers): 100,000€ (1€ per person)
+
+**Revenue**
+
+Assuming that we will reach 100,000 users in a year, we are planning to make profit from premium membership, advertisement, getting commission from ticket sales.
+
+**Premium membership:** 40 € per person (we assume that 10,000 people will be premium member.): 400,000€
+
+**Advertisement:** 4€ per advertisement (we assume that 100,000 advertisement.): 400,000€
+Commission from ticket sales: 1€ per commission from ticket sales (we assume that 100,000 ticket sales): 100,000€
+
+**TOTAL REVENUE:** 900,000€
+We expect that we will earn 9€ from each member per year.
+
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/break-even.png){: .align-center}
+
+To calculate break-even point, this formula is used.
+Break-even point: 347,000€ / (9€ - 1€) = 43,375
+
+
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/break-even-point.png){: .align-center}
+
+
+As you can see from the graph, in order to reach our break-even point, we need to have 43,375 users in a year. If we reach 100,000 users as we expect, our profit will be 453,000 € in a year.  
