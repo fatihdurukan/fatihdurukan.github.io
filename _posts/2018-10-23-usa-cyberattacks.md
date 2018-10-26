@@ -9,11 +9,15 @@ tags:
 
 toc: true
 toc_sticky: true
+
 ---
+Technology and computer science are being developed dramatically. It is hard to find something that is not related to computers directly or indirectly. Billions of mobile phones and computers are being used by people all around the world. This web, where all devices are connected to each other and that we can't see, is an irreplaceable part of our lives.
+
 
 ## Cyberspace and Cyber Attacks
 
-Technology and computer science are being developed dramatically. It is hard to find something that is not related to computers directly or indirectly. Billions of mobile phones and computers are being used by people all around the world. This web, where all devices are connected to each other and that we can't see, is an irreplaceable part of our lives. Cyberspace can be defined as all computer systems and networks in existence, including air-gapped systems (Kello,2013). Moreover, there are so many benefits of cyberspace, in such a massive connected world, which can easily turn into weapons of war and crime as states are trying to gain power, which might lead to conflicts.
+
+ Cyberspace can be defined as all computer systems and networks in existence, including air-gapped systems (Kello,2013). Moreover, there are so many benefits of cyberspace, in such a massive connected world, which can easily turn into weapons of war and crime as states are trying to gain power, which might lead to conflicts.
 
 We have been living on Earth, our lovely planet, for millions of years. Throughout this time, although all humanity needs peace, it is difficult to think there was a time period when everyone was at peace. If we can't share our planet, expecting cyberspace sharing in peace is not realistic. As expected, millions of cyberattacks are occurring daily. Cyberattack refers to the using code to harm or to stop others computer systems for politics or strategic purpose (Kello,2013). Even though the definition of attack may remind us killing or harming people, cyberattacks' aim is not directly killing or giving physical explosions. After realizing cyberattacks can be as effective as wars on other countries' economy and slowing down other countries' progress, cyberspace seems a new place to let countries show their abilities.  Humanity has suffered from millions of deaths of wars and, though hazardous, cyberattacks don't kill anyone.
 
