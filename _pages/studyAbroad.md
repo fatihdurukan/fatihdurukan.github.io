@@ -1,7 +1,7 @@
 ---
 title: "Study Abroad"
 layout: splash
-permalink: /yurtdışı/
+permalink: /studyAbroad/
 
 header:
   overlay_color: "#000"

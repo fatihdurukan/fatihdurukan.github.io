@@ -95,6 +95,12 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--info"
   - image_path: /assets/images/clubtrips-logo-first.png
+    alt: "Business Analysis of Cluptrips"
+    title: "Business Analysis of Cluptrips"
+    url: "/cluptrips/business-analysis/"
+    btn_label: "Read More"
+    btn_class: "btn--info"
+  - image_path: /assets/images/clubtrips-logo-first.png
     alt: "High Fidelity Prototype"
     title: "High Fidelity Prototype"
     url: "/cluptrips/high-fidelity-prototype/"

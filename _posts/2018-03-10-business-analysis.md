@@ -64,13 +64,16 @@ Average office in Tallinn costs: 36,000 €
 
 **Wage:**
 1 Manager: 36,000€
+
 5 Software Engineers: 30,000€ for each = 150,000€
+
 2 Designer: 24,000€ for each = 48,000€
+
 2 Marketing personal = 21,000€ for each = 42,000€
 
 **Utilities**
-Bills: 10,000€
 
+* Bills: 10,000€
 * Insurance: 10,000€
 * Depreciation: 5,000€
 * Advertising: 10,000€
