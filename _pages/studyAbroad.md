@@ -1,5 +1,5 @@
 ---
-title: "Study Abroad"
+title: "Study Abroad | "
 layout: splash
 permalink: /studyAbroad/
 

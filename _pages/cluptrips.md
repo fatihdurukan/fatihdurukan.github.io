@@ -1,5 +1,5 @@
 ---
-title: "Cluptrips"
+title: "Cluptrips | "
 layout: splash
 permalink: /cluptrips/
 
