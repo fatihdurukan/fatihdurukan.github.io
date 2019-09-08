@@ -1,9 +1,11 @@
 # main links
 main:
+  - title: "Amerika'da Yazılım Mühendisliği"
+    url: /amerikadayazılımmühendisliği/  
   - title: "Cluptrips"
     url: /cluptrips/
-  - title: "Study Abroad"
-    url: /studyAbroad/
+  - title: "Work And Travel"
+    url: /workandtravel/
   - title: "About Me"
     url: /about/
   - title: "Sitemap"

@@ -1,14 +1,12 @@
 ---
-title: "Study Abroad | "
+title: "Work and Travel"
 layout: splash
-permalink: /studyAbroad/
+permalink: /workandtravel/
 
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/newyork.jpg
-
-
 
 intro:
   - excerpt: 'Bir rüya gibi : Amerika...'
