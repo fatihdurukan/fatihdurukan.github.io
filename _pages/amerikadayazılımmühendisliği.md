@@ -16,7 +16,7 @@ feature_row1:
     alt:
     title:
     excerpt:
-    url: "/yurtdışı/amerikaya-yolculuk/"
+    url:
     btn_label: "Devamını Oku"
     btn_class: "btn--primary"
 
@@ -52,7 +52,7 @@ feature_row5:
     alt:
     title:
     excerpt:
-    url: 
+    url:
     btn_label: "Devamını Oku"
     btn_class: "btn--primary"
 
