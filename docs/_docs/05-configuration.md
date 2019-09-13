@@ -663,7 +663,7 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   email  : # optional
-  uri    : "http://your-site.com"
+  uri    : "https://your-site.com"
   home   : # null (default), "absolute or relative url to link to author home"
 ```
 
