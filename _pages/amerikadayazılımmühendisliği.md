@@ -8,7 +8,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/newyork.jpg
 
-excerpt: 'Amerika'da bulunduğum sürede yazılım mühendisliğine dair edindiğim tecrübelerimi paylaştığım yazı serisi.'
+excerpt: 'Amerika`da bulunduğum sürede yazılım mühendisliğine dair edindiğim tecrübelerimi paylaştığım yazı serisi.'
 
 feature_row1:
   - image_path:
