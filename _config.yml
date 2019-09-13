@@ -89,7 +89,7 @@ analytics:
 # Site Author
 author:
   name             : "Fatih Durukan"
-  avatar           : /assets/images/avatar.png # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /assets/images/avatar.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am Fatih Durukan, a new grad software engineer , in developing both front-end and back-end systems. I interned at a startup where I had the chance to work on a user friendly website and a platform that get hundreds of views on a daily basis!"
   location         : "Kansas City, Missouri"
   email            : fatihdurukan42@gmail.com
