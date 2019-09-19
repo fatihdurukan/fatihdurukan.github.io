@@ -13,7 +13,7 @@ excerpt: 'Amerika`da bulunduğum sürede yazılım mühendisliğine dair edindi�
 feature_row1:
   - image_path:
     alt: "Amerika'da Yazılım Mühendisi Olmak"
-    title:"Amerika'da Yazılım Mühendisi Olmak"
+    title: "Amerika'da Yazılım Mühendisi Olmak"
     excerpt: 'Amerika'da Yazılım Mühendisi Olmak serisinin ilk yazısı.'
     url: "/amerikada-yazılım-mühendisi-olmak/"
     btn_label: "Devamını Oku"
