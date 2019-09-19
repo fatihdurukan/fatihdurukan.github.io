@@ -1,7 +1,7 @@
 ---
 title: "Amerika'da Yazılım Mühendisi Olmak Serisi"
 categories:
-  - Markup
+  - Yurtdışı
 tags:
   - amerika
   - abd
@@ -25,7 +25,7 @@ Mühendis olarak çok bir tecrübem yok ama kariyerimde ilerledikçe blogumu gü
 Eh ne diyeyim, Amerika'da yazılım mühendisi olmak serisine hoşgeldiniz.
 
 
-Şimdi aklıma gelen konuları unutmadan buraya bırakayım. 
+Şimdi aklıma gelen konuları unutmadan buraya bırakayım.
 
 *Yeni yazı ekledikçe bu sayfayı güncelleceğim.*  
 
