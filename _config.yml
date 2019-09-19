@@ -74,7 +74,6 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-  - "https://www.facebook.com/fatihdurukann"
   - "https://twitter.com/fthdrknn"
   - "https://www.instagram.com/fatihdurukann"
   - "https://www.linkedin.com/in/fatihdurukan"
