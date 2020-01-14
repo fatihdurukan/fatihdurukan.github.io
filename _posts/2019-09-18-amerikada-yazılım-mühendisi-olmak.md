@@ -29,7 +29,7 @@ Eh ne diyeyim, Amerika'da yazılım mühendisi olmak serisine hoşgeldiniz.
 
 *Yeni yazı ekledikçe bu sayfayı güncelleceğim.*  
 
-* Ama Bu İngilizce
+* İngilizce Neden Bu Kadar Önemli
 * Resume/CV Düşündüğünüzden Daha Önemli
 * Resume Hazırsa: Başvuralar Başlasın
 * İhmal Etme: Başvuraları Takip
