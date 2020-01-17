@@ -15,7 +15,7 @@ tags:
 
 İş arayış süreci birçok aşama içeriyor. Bütün bu aşamalara ayrı ayrı hazırlanmak biraz vakit alsada her birinin önemi çok büyük çünkü herhangi bir aşamada yeterince iyi olmamak o iş fırsatını kaybetmek anlamına geliyor. Bunlardan ilk aşama özgeçmiş.
 
- ABD'de 'CV' yerine 'resume' daha çok kullanılıyor. Aralarında farklara bakarsanız faydalı olacaktır. Bu yazımda özgeçmişi 'resume' yerine kullanacağım. !{: .notice--danger}
+**ABD'de 'CV' yerine 'resume' daha çok kullanılıyor. Aralarında farklara bakarsanız faydalı olacaktır. Bu yazımda özgeçmişi 'resume' yerine kullanacağım.**{: .notice--danger}
 
 Bir iş ilanına başvurduğunuz zaman, başvurduğunuz şirketlerdeki insan kaynakları yada işe alımdan sorumlu kişi gözünde siz tamamen özgeçmişinizsiniz. Onları kendinizi işe uygun olduğunuzu inandırmak için ortalama 10-15 saniyeniz var. Doğal olarak özgeçmişinize koyduğunuz her bir kelime altın değerinde. İyi bir özgeçmiş size birçok fırsat kapısı aralayabilir. Şimdi gelin beraber özgeçmiş hazırlarken nelere dikkat etmemiz gerekiyor inceleyelim.
 
