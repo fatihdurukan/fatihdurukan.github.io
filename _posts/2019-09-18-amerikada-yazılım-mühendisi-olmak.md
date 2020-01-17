@@ -30,8 +30,8 @@ Eh ne diyeyim, Amerika'da yazılım mühendisi olmak serisine hoşgeldiniz.
 *Yeni yazı ekledikçe bu sayfayı güncelleceğim.*  
 
 * İngilizce Neden Bu Kadar Önemli
-* Resume/CV Düşündüğünüzden Daha Önemli
-* Resume Hazırsa: Başvuralar Başlasın
+* Yazılım Mühendisleri Özgeçmiş(CV/Resume) İçin 25 Tavsiye
+* Özgeçmiş Hazırsa: Başvuralar Başlasın
 * İhmal Etme: Başvuraları Takip
 * Isınma Turları: Telefon Mülakatları
 * Yüzyüze Mülakatlar

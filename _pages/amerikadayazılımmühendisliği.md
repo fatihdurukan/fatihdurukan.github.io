@@ -30,10 +30,10 @@ feature_row2:
 
 feature_row3:
   - image_path:
-    alt:
-    title:
-    excerpt:
-    url:
+    alt: "Yazılım Mühendisleri Özgeçmiş(CV/Resume) İçin 25 Tavsiye"
+    title: "Yazılım Mühendisleri Özgeçmiş(CV/Resume) İçin 25 Tavsiye"
+    excerpt: 'Özgeçmiş Hazırlarken Nelere Dikkat Etmeli?'
+    url: "/yurtdışı/ozgecmis-hazirlarken-nelere-dikkat-etmeli/"
     btn_label: "Devamını Oku"
     btn_class: "btn--primary"
 
