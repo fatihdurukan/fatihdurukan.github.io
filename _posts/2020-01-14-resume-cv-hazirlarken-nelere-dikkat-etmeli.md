@@ -15,12 +15,12 @@ tags:
 
 İş arayış süreci birçok aşama içeriyor. Bütün bu aşamalara ayrı ayrı hazırlanmak biraz vakit alsada her birinin önemi çok büyük çünkü herhangi bir aşamada yeterince iyi olmamak o iş fırsatını kaybetmek anlamına geliyor. Bunlardan ilk aşama özgeçmiş.
 
- ABD'de 'CV' yerine 'resume' daha çok kullanılıyor. Aralarında farklara bakarsanız faydalı olacaktır. Bu yazımda özgeçmişi 'resume' yerine kullanacağım.!{: .notice--danger}
+ ABD'de 'CV' yerine 'resume' daha çok kullanılıyor. Aralarında farklara bakarsanız faydalı olacaktır. Bu yazımda özgeçmişi 'resume' yerine kullanacağım. !{: .notice--danger}
 
 Bir iş ilanına başvurduğunuz zaman, başvurduğunuz şirketlerdeki insan kaynakları yada işe alımdan sorumlu kişi gözünde siz tamamen özgeçmişinizsiniz. Onları kendinizi işe uygun olduğunuzu inandırmak için ortalama 10-15 saniyeniz var. Doğal olarak özgeçmişinize koyduğunuz her bir kelime altın değerinde. İyi bir özgeçmiş size birçok fırsat kapısı aralayabilir. Şimdi gelin beraber özgeçmiş hazırlarken nelere dikkat etmemiz gerekiyor inceleyelim.
 
-* Özgeçmiş oluşturmak için birçok internet sitesi ve yardımcı kaynak mevcut. Ben LaTex kullandım ve herkese tavsiye ederim.
-Sıfırdan kendinizde özgeçmişi oluşturabilirsiniz ancak ben hazır şablonları kullandım. Kullandığım websitenin adresini de şöyle bırakıyım : WEB_SITE_ADDRESS. Burdan istediğiniz şablonu seçip, düzenleyebilirsiniz.
+* Özgeçmiş oluşturmak için birçok internet sitesi ve yardımcı kaynak mevcut. Ben LaTex kullandım ve herkese tavsiye ederim. Sıfırdan kendinizde özgeçmiş oluşturabilirsiniz, ben hazır şablonları kullandım. Kullandığım websitenin adresini de şöyle bırakıyım : https://www.overleaf.com/.
+Burdan istediğiniz şablonu seçip, düzenleyebilirsiniz.
 
 * Eğer 10-15 yıl tecrübeniz yoksa özgeçmiş kesinlikle ve kesinlikle 1 sayfayı geçmemeli. Burası önemli.
 
@@ -28,7 +28,7 @@ Sıfırdan kendinizde özgeçmişi oluşturabilirsiniz ancak ben hazır şablonl
 
 * Çalışma izniniz varsa mutlaka belirtin. (US Citizen veya US Resident gibi).
 
-* Github, kişisel internet sitesi gibi linkleri basit kişisel bilgilerinizle beraber koyabilirsiniz.
+* Github, kişisel internet sitesi gibi linkleri kişisel bilgilerinizle beraber koyabilirsiniz.
 
 * Fotoğraf koymayın.
 
@@ -36,13 +36,9 @@ Sıfırdan kendinizde özgeçmişi oluşturabilirsiniz ancak ben hazır şablonl
 
 * Hobi, ilgi alanları vs koymayın.
 
-* Özgeçmişinizde en azından şu bölümler mutlaka olmalı:
-      * Eğitim
-      * Tecrübe
-      * Projeler
-      * Yetenekler
+* Özgeçmişinizde en azından şu bölümler mutlaka olmalı: eğitim, tecrübe, projeler, yetenekler.
 
-* Bu bölümlerin sırası da tecrübenize göre sıralanmış olması gerekiyor. Eğer yeni mezunsanız eğitim bilgisi en başka eğer en azından 2-3 yıl tecrübeniz varsa tecrübe kısmı ilk başta yer almalı. Buna diğer bir alternatifte kendinizi en güçlü hissettiğiniz bölümden başlayarak sıralamak.
+* Bu bölümlerin sırası da tecrübenize göre sıralanmış olması gerekiyor. Eğer yeni mezunsanız eğitim bilgisi en başta, en azından 2-3 yıl tecrübeniz varsa tecrübe kısmı ilk başta yer almalı. Buna diğer bir alternatifte kendinizi en güçlü hissettiğiniz bölümden başlayarak sıralamak.
 
 * Eğitim bölümünde eğer ortalamanız 3ün altında iste, ortalamayı koymasanız daha faydalı olabilir.
 
@@ -74,7 +70,7 @@ Achieved 50% increase in customer retention rate by simplifying and refactoring 
 
 * Projelerinizi yazarken varsa mutlaka projenin Github linkini yazın.
 
-* Projenin ne olduğu kısa bir biçimde açıklama/tanıtma cümleysiyle anlatabilirsiniz.
+* Projenin ne olduğu kısa bir biçimde açıklama/tanıtma cümlesi ile anlatabilirsiniz.
 
 * Sonra, madde işaretleri kullanarak yine tecrübelerini anlatırken yaptığınız gibi neler yaptığınızı açıklayın.
 
