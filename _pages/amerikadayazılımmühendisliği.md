@@ -42,7 +42,7 @@ feature_row4:
     alt: "Başvuru Aşaması"
     title: "Başvuru Aşaması"
     excerpt: 'Başvuru yaparken nelere dikkat ettiklerimi anlattım.'
-    url: "/yurtdışı/basvuru-asaması/"
+    url: "/yurtdışı/basvuru-asamasi/"
     btn_label: "Devamını Oku"
     btn_class: "btn--primary"
 
