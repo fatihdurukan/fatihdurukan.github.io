@@ -39,10 +39,10 @@ feature_row3:
 
 feature_row4:
   - image_path:
-    alt:
-    title:
-    excerpt:
-    url:
+    alt: "Başvuru Aşaması"
+    title: "Başvuru Aşaması"
+    excerpt: 'Başvuru yaparken nelere dikkat ettiklerimi anlattım.'
+    url: "/yurtdışı/basvuru-asaması/"
     btn_label: "Devamını Oku"
     btn_class: "btn--primary"
 
