@@ -19,14 +19,6 @@ feature_row1:
     btn_label: "Devamını Oku"
     btn_class: "btn--primary"
 
-feature_row2:
-  - image_path:
-    alt: "İngilizce Neden Bu Kadar Önemli?"
-    title: "İngilizce Neden Bu Kadar Önemli"
-    excerpt: 'İngilizce önemli. Çok önemli. Harbiden.'
-    url: "/yurtdışı/ingilizce-neden-bu-kadar-onemli/"
-    btn_label: "Devamını Oku"
-    btn_class: "btn--primary"
 
 feature_row3:
   - image_path:

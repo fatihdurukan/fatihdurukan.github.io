@@ -23,19 +23,3 @@ Mühendis olarak çok bir tecrübem yok ama kariyerimde ilerledikçe blogumu gü
 
 
 Eh ne diyeyim, Amerika'da yazılım mühendisi olmak serisine hoşgeldiniz.
-
-
-Şimdi aklıma gelen konuları unutmadan buraya bırakayım.
-
-*Yeni yazı ekledikçe bu sayfayı güncelleceğim.*  
-
-* İngilizce Neden Bu Kadar Önemli
-* Yazılım Mühendisleri Özgeçmiş(CV/Resume) İçin 25 Tavsiye
-* Özgeçmiş Hazırsa: Başvuralar Başlasın
-* İhmal Etme: Başvuraları Takip
-* Isınma Turları: Telefon Mülakatları
-* Yüzyüze Mülakatlar
-* Mülakatlardan Reddilmeyen Yok: Hayır Cevabını Nasıl Anlamalı?
-* Teklif Aşaması: Tebrikler!
-* Pazarlık Olmazsa Olmaz
-* İşe Başlangıç/Oryantasyon
